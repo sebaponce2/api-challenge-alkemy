@@ -1,7 +1,7 @@
 // Module imports
 const express = require('express');
 const app = express();
-const config = require('../backend/config/config');
+const config = require('./config/config');
 const cors = require('cors');
 
 
